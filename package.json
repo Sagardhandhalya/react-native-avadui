@@ -47,14 +47,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://www.linkedin.com/in/sagar-dhandhalya/.git"
+    "url": "https://github.com/Sagardhandhalya/react-native-avadui.git"
   },
   "author": "sagar dhandhalya <dhandhalyasagar1@gmail.com> (https://www.linkedin.com/in/sagar-dhandhalya/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://www.linkedin.com/in/sagar-dhandhalya//issues"
+    "url": "https://github.com/Sagardhandhalya/react-native-avadui/issues"
   },
-  "homepage": "https://www.linkedin.com/in/sagar-dhandhalya/#readme",
+  "homepage": "https://github.com/Sagardhandhalya/react-native-avadui",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

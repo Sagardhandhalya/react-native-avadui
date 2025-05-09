@@ -20,11 +20,12 @@ export default defineConfig([
     plugins: { prettier },
     rules: {
       'react/react-in-jsx-scope': 'off',
+      'react-native/no-inline-styles': 'off',
       'prettier/prettier': [
-        'error',
+        'off',
         {
           quoteProps: 'consistent',
-          singleQuote: true,
+          singleQuote: false,
           tabWidth: 2,
           trailingComma: 'es5',
           useTabs: false,
@@ -33,9 +34,6 @@ export default defineConfig([
     },
   },
   {
-    ignores: [
-      'node_modules/',
-      'lib/'
-    ],
+    ignores: ['node_modules/', 'lib/'],
   },
 ]);
