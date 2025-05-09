@@ -16,8 +16,11 @@ yarn install
 yarn ios/android
 ```
 Please run this to see story book of all components. 
-<img width="338" alt="SCR-20250509-qdpl" src="https://github.com/user-attachments/assets/a7aa5add-cec6-43c2-85d8-b964a6efd942" />
-<img width="340" alt="SCR-20250509-qdim" src="https://github.com/user-attachments/assets/4af6f43f-6ea6-4d1f-a6c0-569b7ed9f634" />
+
+
+<img width="30%" alt="SCR-20250509-qdpl" src="https://github.com/user-attachments/assets/a7aa5add-cec6-43c2-85d8-b964a6efd942" />
+&nbsp;&nbsp;
+<img width="30%" alt="SCR-20250509-qdim" src="https://github.com/user-attachments/assets/4af6f43f-6ea6-4d1f-a6c0-569b7ed9f634" />
 
 
 ## Components
